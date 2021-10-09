@@ -14,7 +14,7 @@ Hope you are doing great! Thanks a lot for taking time to get to know about me. 
 
 
 
-# How to reach me 📫: <img align="left" width="200" height="150" src="https://github.com/karantygai1501/karantyagi1501/blob/master/images/080f909da46192c0db62b76330302b0c.gif?raw=true">
+# Connect with me on 📫: <img align="left" width="200" height="150" src="https://github.com/karantygai1501/karantyagi1501/blob/master/images/080f909da46192c0db62b76330302b0c.gif?raw=true">
 - Thoughts in public on <a href="https://twitter.com/PrateekRajvats">Twitter</a> ✍🏾
 - Sharing updates on <a href="https://www.linkedin.com/in/parteekrajvats/">LinkedIn</a> 💼
 
