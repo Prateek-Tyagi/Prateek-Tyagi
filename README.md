@@ -6,7 +6,7 @@ Hope you are doing great! Thanks a lot for taking time to get to know about me. 
 
 
 - 📱 I’m a DevOps Engineer and Cloud Architect.
-- 🤓 I’m AWS certified Solution Architect - Associate
+- 😎 I’m AWS certified Solution Architect - Associate
 - 💬 Ask me about DevOps, Cloud, distributed systesms, Containers and Kubernetes.
 - 📫 Box: Need Contributers On Cloud Project.
 - 😄 Pronouns: He/him
