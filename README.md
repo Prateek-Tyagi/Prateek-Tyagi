@@ -10,7 +10,7 @@ Hope you are doing great! Thanks a lot for taking time to get to know about me. 
 - 💬 Ask me about DevOps, Cloud, distributed systesms, Containers and Kubernetes.
 - 📫 Box: Need Contributers On Cloud Project.
 - 😄 Pronouns: He/him
-- 🎮 Fun fact: I love Exploring Maps !
+- 🗺️ Fun fact: I love Exploring Maps !
 
 
 
