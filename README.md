@@ -2,7 +2,7 @@
 
 
 Hey there, <br/>
-Hope you are doing great! Thanks a lot for taking time to get to know about me. I have around 2 years of professional experience as a DevOps engineer. I enjoy architecting cloud native applications. let's talk about cloud, distributed systems and scalability and containerization. I an more into designing and cloud infrastructure development. <img align="right" src="https://github.com/Prateek-Tyagi/Prateek-Tyagi/blob/main/images/9fc2126eec2c0a3876e3f2097af9b983.gif" alt="Illustration of ready" width=350px height=260px/>
+Hope you are doing great! Thanks a lot for taking time to get to know about me. I have around 2 years of professional experience as a DevOps engineer. I enjoy architecting cloud native applications. let's talk about cloud, distributed systems and scalability and containerization. I am more into designing and cloud infrastructure development. <img align="right" src="https://github.com/Prateek-Tyagi/Prateek-Tyagi/blob/main/images/9fc2126eec2c0a3876e3f2097af9b983.gif" alt="Illustration of ready" width=350px height=260px/>
 
 
 - 📱 I’m a DevOps Engineer and Cloud Architect.
