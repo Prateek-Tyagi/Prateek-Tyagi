@@ -1,7 +1,7 @@
-# Hi, I'm Prateek Tyagi 👋🏾‍👨‍💻
+# Hi, I'm Prateek Tyagi  👋🏾‍👨💻
 
 
-Hey there,
+Hey there, <br/>
 Hope you are doing great! Thanks a lot for taking time to get to know about me. I have around 2 years of professional experience as DevOps engineer. I enjoy architecting cloud native applications. let's talk about cloud, distributed systems and scalability and containerization. I an more into desigining and cloud infrastructure  development. <img align="right" src="https://github.com/karantygai1501/karantyagi1501/blob/master/images/9fc2126eec2c0a3876e3f2097af9b983.gif" alt="Illustration of ready" width=350px height=260px/>
 
 
