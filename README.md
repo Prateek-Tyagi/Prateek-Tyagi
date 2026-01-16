@@ -1,4 +1,4 @@
-# Prateek Tyagi
+# Prateek Rajvats
 
 Senior Platform / DevSecOps Engineer
 
