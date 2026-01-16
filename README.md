@@ -1,19 +1,62 @@
-# Hi, I'm Prateek Tyagi  👋🏾‍👨💻
+# Prateek Tyagi
 
+Senior Platform / DevSecOps Engineer
 
-Hey there, <br/>
-I hope you are doing great! Thanks for taking the time to visit here. I am an experienced SRE Professional. I enjoy architecting cloud-native applications. let's talk about cloud, distributed systems scalability, and containerization. I am more into designing and cloud infrastructure development. <img align="right" src="https://github.com/Prateek-Tyagi/Prateek-Tyagi/blob/main/images/9fc2126eec2c0a3876e3f2097af9b983.gif" alt="Illustration of ready" width=350px height=260px/>
+I design and operate production cloud infrastructure with a focus on
+simplicity, security, and long-term reliability.
 
+Most of my work is around AWS-based platforms, distributed systems,
+and infrastructure automation.
 
-- 📱 I’m a DevSecOps/SRE/DevOps/Platform Engineer.
-- 😎 I’m an AWS Certified Solution Architect - Associate
-- 💬 Ask me about DevOps, Cloud, distributed systems, Containers, and Kubernetes.
-- 📫 Box: Need Contributors On Cloud Project.
-- 🗺️ Fun fact: I love Exploring Maps!
+---
 
+## Areas of Work
 
+- Platform engineering and shared services
+- Cloud architecture (AWS)
+- DevSecOps and CI/CD security
+- Containers and orchestration
+- Infrastructure as Code
+- Observability and operational reliability
 
-# Connect with me on 📫: <img align="left" width="200" height="150" src="https://github.com/Prateek-Tyagi/Prateek-Tyagi/blob/main/images/080f909da46192c0db62b76330302b0c.gif?raw=true">
-- Thoughts in public on <a href="https://twitter.com/PrateekRajvats">Twitter</a> ✍🏾
-- Sharing updates on <a href="https://www.linkedin.com/in/parteekrajvats/">LinkedIn</a> 💼
+---
 
+## Experience Highlights
+
+- Designed and operated multi-account AWS platforms with governance
+- Implemented secure CI/CD using OIDC, IAM roles, and artifact scanning
+- Built and maintained containerized workloads (ECS, Kubernetes)
+- Worked on data platforms using Athena, Glue, and Lake Formation
+- Designed VPC networking, transit gateways, PrivateLink, and DNS strategies
+- Automated large-scale operational and security workflows
+
+---
+
+## Tooling
+
+- Cloud: AWS
+- Infrastructure as Code: Terraform, AWS CDK
+- Containers: Docker, Kubernetes, ECS
+- CI/CD: GitHub Actions, Bitbucket Pipelines
+- Security: IAM, SCPs, dependency and artifact scanning
+- Observability: Datadog, CloudWatch
+
+---
+
+## Certification
+
+- AWS Certified Solutions Architect – Associate
+
+---
+
+## Principles
+
+- Prefer simple systems over clever ones
+- Build security into the platform, not around it
+- Automate repetitive and error-prone work
+- Optimize for maintainability and clarity
+
+---
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/parteekrajvats/
