@@ -8,6 +8,8 @@ simplicity, security, and long-term reliability.
 Most of my work is around AWS-based platforms, distributed systems,
 and infrastructure automation.
 
+Currently integrating LLMs into day-to-day operations and advancing SRE engineering practices.
+
 ---
 
 ## Areas of Work
@@ -55,7 +57,6 @@ and infrastructure automation.
 - Build security into the platform, not around it
 - Automate repetitive and error-prone work
 - Optimize for maintainability and clarity
-
 ---
 
 ## Contact
